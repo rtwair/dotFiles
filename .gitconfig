@@ -1,1 +1,22 @@
-/home/rtwair/dotfiles/./gitconfig
+[user]
+  name = Riyad Twair
+  email = riyad.twair@lazada.com
+
+[push]
+  default = current
+
+[commit]
+  template = ~/.gitmessage
+
+[core]
+  editor = vim
+
+[color]
+  ui = true
+[diff]
+	external = vimdiff
+	tool = vimdiff
+[difftool]
+	prompt = false
+[alias]
+	vimdiff = difftool
