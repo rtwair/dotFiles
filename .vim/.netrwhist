@@ -1,11 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/rtwair/repos/pp.id'
-let g:netrw_dirhist_2='/home/rtwair/repos/dns/master/th'
-let g:netrw_dirhist_3='/home/rtwair/repos'
-let g:netrw_dirhist_4='/home/rtwair/lazNotes/rackspace'
-let g:netrw_dirhist_5='/home/rtwair/lazNotes/rackspace 2'
-let g:netrw_dirhist_6='/home/rtwair/repos/pp.th'
-let g:netrw_dirhist_7='/home/rtwair/repos/pp.th/manifests'
-let g:netrw_dirhist_8='/etc/terminfo'
-let g:netrw_dirhist_9='/home/rtwair/vimrc/.git'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/rtwair/dotFiles/.vim'

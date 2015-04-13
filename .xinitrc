@@ -1,2 +1,2 @@
-xmodmap .Xmodmap
-Xrandrsettings.sh
+#xmodmap .Xmodmap
+#Xrandrsettings.sh
